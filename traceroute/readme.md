@@ -1,4 +1,4 @@
-Ping + Traceroute Script
+Ping + Traceroute skript
 =====================================
 
 Tento skript slouží k otestování dostupnosti IP adres WGP https://wedos.global v rozsahu 45.138.106.101-255 a provedení traceroute na cílovou IP adresu 45.138.107.255.
